@@ -10,14 +10,14 @@ static MUI_ENTRY trTRSetupInitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         20,
-        "Windivs Kurulumu kendini ba\237lat\215rken ve ayg\215tlar\215n\215z\215",
+        "Wsndows Kurulumu kendini ba\237lat\215rken ve ayg\215tlar\215n\215z\215",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -48,7 +48,7 @@ static MUI_ENTRY trTRLanguagePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -100,21 +100,21 @@ static MUI_ENTRY trTRWelcomePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Kurulum Sihirbaz\215na ho\237 geldiniz.",
+        "Wsndows Kurulum Sihirbaz\215na ho\237 geldiniz.",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
         6,
         11,
-        "Kurulumun bu b\224l\201m\201, Windivs \230\237letim Sistemi'ni bilgisayar\215n\215za",
+        "Kurulumun bu b\224l\201m\201, Wsndows \230\237letim Sistemi'ni bilgisayar\215n\215za",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -128,28 +128,28 @@ static MUI_ENTRY trTRWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Windivs'u y\201klemek ya da y\201kseltmek i\207in ENTER'e bas\215n\215z.",
+        "\x07  Wsndows'u y\201klemek ya da y\201kseltmek i\207in ENTER'e bas\215n\215z.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-        "\x07  Windivs'u onarmak veya y\201kseltmek i\207in R'ye bas\215n\215z.",
+        "\x07  Wsndows'u onarmak veya y\201kseltmek i\207in R'ye bas\215n\215z.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         19,
-        "\x07  Windivs Lisans Terimleri'ni ve \236artlar\215'n\215 g\224rmek i\207in L'ye bas\215n\215z.",
+        "\x07  Wsndows Lisans Terimleri'ni ve \236artlar\215'n\215 g\224rmek i\207in L'ye bas\215n\215z.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Windivs'u kurmadan \207\215kmak i\207in F3'e bas\215n\215z.",
+        "\x07  Wsndows'u kurmadan \207\215kmak i\207in F3'e bas\215n\215z.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -163,7 +163,7 @@ static MUI_ENTRY trTRWelcomePageEntries[] =
     {
         6,
         24,
-        "https://Windivs.org/",
+        "https://prowindows62.github.io/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -187,28 +187,28 @@ static MUI_ENTRY trTRIntroPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs S\201r\201m Durumu",
+        "Wsndows S\201r\201m Durumu",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "Wsndows Operating System",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "Wsndows is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -229,7 +229,7 @@ static MUI_ENTRY trTRIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install Wsndows on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -243,14 +243,14 @@ static MUI_ENTRY trTRIntroPageEntries[] =
     {
         8,
         19,
-        "\x07  Windivs Kur'a devam etmek i\207in ENTER'e bas\215n\215z.",
+        "\x07  Wsndows Kur'a devam etmek i\207in ENTER'e bas\215n\215z.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Windivs'u kurmadan \207\215kmak i\207in F3'e bas\215n\215z.",
+        "\x07  Wsndows'u kurmadan \207\215kmak i\207in F3'e bas\215n\215z.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -274,7 +274,7 @@ static MUI_ENTRY trTRLicensePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -288,7 +288,7 @@ static MUI_ENTRY trTRLicensePageEntries[] =
     {
         8,
         8,
-        "Windivs Sistemi, GNU GPL'yle X11, BSD ve GNU LGPL",
+        "Wsndows Sistemi, GNU GPL'yle X11, BSD ve GNU LGPL",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -309,7 +309,7 @@ static MUI_ENTRY trTRLicensePageEntries[] =
     {
         8,
         11,
-        "Bu y\201zden Windivs sisteminin b\224l\201m\201 olan t\201m yaz\215l\215mlar, korunan",
+        "Bu y\201zden Wsndows sisteminin b\224l\201m\201 olan t\201m yaz\215l\215mlar, korunan",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -330,7 +330,7 @@ static MUI_ENTRY trTRLicensePageEntries[] =
     {
         8,
         15,
-        "\201zerine hi\207bir g\201vence ve k\215s\215tlamayla gelmez. Windivs'un",
+        "\201zerine hi\207bir g\201vence ve k\215s\215tlamayla gelmez. Wsndows'un",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -344,7 +344,7 @@ static MUI_ENTRY trTRLicensePageEntries[] =
     {
         8,
         17,
-        "E\247er baz\215 nedenlerden dolay\215 Windivs ile GNU Genel",
+        "E\247er baz\215 nedenlerden dolay\215 Wsndows ile GNU Genel",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -410,7 +410,7 @@ static MUI_ENTRY trTRDevicePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -518,14 +518,14 @@ static MUI_ENTRY trTRRepairPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Kur, bir \224n geli\237me evresindedir. Daha t\201m\201yle kullan\215\237l\215",
+        "Wsndows Kur, bir \224n geli\237me evresindedir. Daha t\201m\201yle kullan\215\237l\215",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -591,21 +591,21 @@ static MUI_ENTRY trTRUpgradePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Kur, a\237a\247\215da listelenen bir mevcut Windivs kurulumunu",
+        "Wsndows Kur, a\237a\247\215da listelenen bir mevcut Wsndows kurulumunu",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "y\201kseltebilir ya da Windivs kurulumu zarar g\224rm\201\237se Kur, onu",
+        "y\201kseltebilir ya da Wsndows kurulumu zarar g\224rm\201\237se Kur, onu",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -647,7 +647,7 @@ static MUI_ENTRY trTRUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Windivs kurmadan \207\215kmak i\207in F3'e bas\215n\215z.",
+        "\x07  Wsndows kurmadan \207\215kmak i\207in F3'e bas\215n\215z.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -671,7 +671,7 @@ static MUI_ENTRY trTRComputerPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -730,7 +730,7 @@ static MUI_ENTRY trTRFlushPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -775,14 +775,14 @@ static MUI_ENTRY trTRQuitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs, t\201m\201yle kurulmad\215.",
+        "Wsndows, t\201m\201yle kurulmad\215.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -827,7 +827,7 @@ static MUI_ENTRY trTRDisplayPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -886,14 +886,14 @@ static MUI_ENTRY trTRSuccessPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs'un ana bile\237enleri ba\237ar\215yla kuruldu.",
+        "Wsndows'un ana bile\237enleri ba\237ar\215yla kuruldu.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -938,7 +938,7 @@ static MUI_ENTRY trTRBootPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -984,7 +984,7 @@ static MUI_ENTRY trTRSelectPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1012,7 +1012,7 @@ static MUI_ENTRY trTRSelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Se\207ili b\224l\201me Windivs'u y\201klemek i\207in ENTER'e bas\215n\215z.",
+        "\x07  Se\207ili b\224l\201me Wsndows'u y\201klemek i\207in ENTER'e bas\215n\215z.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1064,7 +1064,7 @@ static MUI_ENTRY trTRChangeSystemPartition[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1078,7 +1078,7 @@ static MUI_ENTRY trTRChangeSystemPartition[] =
     {
         6,
         12,
-        "b\224l\201m\201, Windivs taraf\215ndan desteklenmeyen",
+        "b\224l\201m\201, Wsndows taraf\215ndan desteklenmeyen",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1092,7 +1092,7 @@ static MUI_ENTRY trTRChangeSystemPartition[] =
     {
         6,
         18,
-        "Windivs'u ba\237ar\215yla kurmak i\207in, Kurulum program\215 mevcut",
+        "Wsndows'u ba\237ar\215yla kurmak i\207in, Kurulum program\215 mevcut",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1155,7 +1155,7 @@ static MUI_ENTRY trTRChangeSystemPartition[] =
     {
         6,
         34,
-        "gerekebilir veya Windivs kurulumunu tamamlad\215ktan sonra sistem ",
+        "gerekebilir veya Wsndows kurulumunu tamamlad\215ktan sonra sistem ",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1186,7 +1186,7 @@ static MUI_ENTRY trTRConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1207,7 +1207,7 @@ static MUI_ENTRY trTRConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         11,
-        "programlar\215, Windivs gibi bir i\237letim sistemini ba\237latmak i\207in programlar",
+        "programlar\215, Wsndows gibi bir i\237letim sistemini ba\237latmak i\207in programlar",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1235,7 +1235,7 @@ static MUI_ENTRY trTRConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         16,
-        "B\224l\201m\201 sildi\247inizde Windivs Kur'u bitirene kadar bilgisayar\215 sabit diskten",
+        "B\224l\201m\201 sildi\247inizde Wsndows Kur'u bitirene kadar bilgisayar\215 sabit diskten",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1287,7 +1287,7 @@ static MUI_ENTRY trTRFormatPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1325,7 +1325,7 @@ static MUI_ENTRY trTRCheckFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1356,14 +1356,14 @@ static MUI_ENTRY trTRInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Kur, se\207ili b\224l\201me Windivs dosyalar\215n\215 y\201kler. Windivs'un",
+        "Kur, se\207ili b\224l\201me Wsndows dosyalar\215n\215 y\201kler. Wsndows'un",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1384,7 +1384,7 @@ static MUI_ENTRY trTRInstallDirectoryEntries[] =
     {
         6,
         15,
-        "bas\215n\215z ve ard\215ndan Windivs'un y\201klenmesini istedi\247iniz dizini yaz\215n\215z.",
+        "bas\215n\215z ve ard\215ndan Wsndows'un y\201klenmesini istedi\247iniz dizini yaz\215n\215z.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1408,14 +1408,14 @@ static MUI_ENTRY trTRFileCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         12,
-        "Windivs Kur, Windivs kurulum dizininize dosyalar\215 kopyalarken",
+        "Wsndows Kur, Wsndows kurulum dizininize dosyalar\215 kopyalarken",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -1453,7 +1453,7 @@ static MUI_ENTRY trTRBootLoaderEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1512,7 +1512,7 @@ static MUI_ENTRY trTRBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " Wsndows Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1536,7 +1536,7 @@ static MUI_ENTRY trTRKeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1595,7 +1595,7 @@ static MUI_ENTRY trTRLayoutSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1655,14 +1655,14 @@ static MUI_ENTRY trTRPrepareCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Kur, Windivs dosyalar\215n\215 kopyalamak i\207in bilgisayar\215n\215z\215 haz\215rl\215yor.",
+        "Kur, Wsndows dosyalar\215n\215 kopyalamak i\207in bilgisayar\215n\215z\215 haz\215rl\215yor.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1687,7 +1687,7 @@ static MUI_ENTRY trTRSelectFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1735,7 +1735,7 @@ static MUI_ENTRY trTRDeletePartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1787,7 +1787,7 @@ static MUI_ENTRY trTRRegistryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Kur ",
+        " Wsndows Kur ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1822,8 +1822,8 @@ MUI_ERROR trTRErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "Windivs, bilgisayara t\201m\201yle kurulmad\215. E\247er \237imdi\n"
-        "Kur'dan \207\215karsan\215z Windivs'u kurmak i\207in Kur'u\n"
+        "Wsndows, bilgisayara t\201m\201yle kurulmad\215. E\247er \237imdi\n"
+        "Kur'dan \207\215karsan\215z Wsndows'u kurmak i\207in Kur'u\n"
         "yeniden \207al\215\237t\215rman\215z gerekecektir.\n"
         "\n"
         "  \x07  Kur'a devam etmek i\207in ENTER'e bas\215n\215z.\n"
@@ -1832,7 +1832,7 @@ MUI_ERROR trTRErrorEntries[] =
     },
     {
         // ERROR_NO_BUILD_PATH
-        "Windivs kurulum dizini i\207in kurulum yollar\215 olu\237turulamad\215!!\n"
+        "Wsndows kurulum dizini i\207in kurulum yollar\215 olu\237turulamad\215!!\n"
         "ENTER = Bilgisayar\215 Yeniden Ba\237lat"
     },
     {
@@ -1842,7 +1842,7 @@ MUI_ERROR trTRErrorEntries[] =
     },
     {
         // ERROR_SOURCE_DIR
-        "Windivs'u kurulum kaynak dizini i\207ine kuramazs\215n\215z!\n"
+        "Wsndows'u kurulum kaynak dizini i\207ine kuramazs\215n\215z!\n"
         "ENTER = Bilgisayar\215 Yeniden Ba\237lat"
     },
     {
@@ -2041,7 +2041,7 @@ MUI_ERROR trTRErrorEntries[] =
     },
     {
         // ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "Se\207ili b\224l\201m Windivs'u kurmak i\207in yeteri katar b\201y\201k de\247il.\n"
+        "Se\207ili b\224l\201m Wsndows'u kurmak i\207in yeteri katar b\201y\201k de\247il.\n"
         "Kurulum b\224l\201m\201 en az %lu MB b\201y\201kl\201\247\201nde olmal\215.\n"
         "\n"
         "  * Devam etmek i\207in bir tu\237a bas\215n\215z.",
@@ -2224,13 +2224,13 @@ MUI_STRING trTRStrings[] =
     {STRING_PARTFORMAT,
     "Bu b\224l\201m ileride bi\207imlendirilecektir."},
     {STRING_NONFORMATTEDPART,
-    "Windivs'u yeni ya da bi\207imlendirilmemi\237 bir b\224l\201me kurmay\215 se\207tiniz."},
+    "Wsndows'u yeni ya da bi\207imlendirilmemi\237 bir b\224l\201me kurmay\215 se\207tiniz."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "Sistem b\224l\201m\201 hen\201z bi\207imlendirilmemi\237."},
     {STRING_NONFORMATTEDOTHERPART,
     "Yeni b\224l\201m hen\201z bi\207imlendirilmemi\237."},
     {STRING_INSTALLONPART,
-    "Kur, Windivs'u b\224l\201m \201zerine kurar."},
+    "Kur, Wsndows'u b\224l\201m \201zerine kurar."},
     {STRING_CONTINUE,
     "ENTER = Devam Et"},
     {STRING_QUITCONTINUE,
