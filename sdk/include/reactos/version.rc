@@ -16,11 +16,11 @@
 #include "buildno.h"
 
 /* Define some defaults (shouldn't be overwritten by applications */
-#define REACTOS_DEFAULT_STR_COMPANY_NAME    "jpb"
-#define REACTOS_DEFAULT_STR_DESCRIPTION     "Windivs Core Component"
+#define REACTOS_DEFAULT_STR_COMPANY_NAME    "pw62"
+#define REACTOS_DEFAULT_STR_DESCRIPTION     "Wsndows Core Component"
 #define REACTOS_DEFAULT_STR_INTERNAL_NAME   ""
-#define REACTOS_DEFAULT_STR_LEGAL_COPYRIGHT "(C) 2023-" COPYRIGHT_YEAR " jpb"
-#define REACTOS_DEFAULT_STR_PRODUCT_NAME    "The Windivs Operating System"
+#define REACTOS_DEFAULT_STR_LEGAL_COPYRIGHT "(C) 2024-" COPYRIGHT_YEAR " jpb and pw62"
+#define REACTOS_DEFAULT_STR_PRODUCT_NAME    "The Wsndows Operating System"
 
 /* Set defaults for everything, unless overridden */
 #ifndef REACTOS_FILEVERSION
